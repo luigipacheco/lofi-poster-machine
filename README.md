@@ -1,3 +1,3 @@
-![screenshot](docs/lofi.jpg)
+![screenshot](lofi.jpg)
 
 # LOFI POSTER MACHINE
